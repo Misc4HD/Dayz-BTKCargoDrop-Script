@@ -20,4 +20,3 @@ In progress i try to add 1 script a day.
 
 6.You can change the loadable objects by editing the "BTK\Cargo Drop\Settings_Objects.sqf" and "BTK\Cargo Drop\Settings_Transporter.sqf" files.
 
-<b>All scripts are runned on thise Dayz Epoch Server: 195.154.178.70:2332</b>
